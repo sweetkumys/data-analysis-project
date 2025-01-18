@@ -131,7 +131,4 @@ To replicate this project, install the following:
 
 ---
 
-## License
-
-This project is licensed under the MIT License.
 
